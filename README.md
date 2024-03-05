@@ -38,9 +38,9 @@ python sentiment_analyzer.py
 ```
 
 ## Contributors
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
+- [Sri Harsh]
+- [Kailash Varma](https://github.com/kailash123varma)
+- [Vijay Sai Kumar]
 
 Feel free to contribute to this project by providing feedback, suggesting improvements, or adding new features!
 
